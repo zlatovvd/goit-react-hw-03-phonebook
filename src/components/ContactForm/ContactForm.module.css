@@ -1,0 +1,26 @@
+.phoneForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 400px;
+  padding: 10px;
+  border: 2px solid silver;
+}
+
+.phoneForm p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.phoneForm label {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.phoneForm input {
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
